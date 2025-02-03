@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-
+project: 'projects/6'
 ---
 
 **Describe the bug**
