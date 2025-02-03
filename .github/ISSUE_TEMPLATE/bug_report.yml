@@ -2,9 +2,8 @@ name: Bug Report
 description: File a bug report.
 title: "[Bug]: "
 labels: ["bug"]
-projects: ["https://github.com/users/jussetain/projects/6"]
-assignees:
-  - jussetain
+projects: ["jussetain/6"]
+assignees: ["jussetain"]
 body:
   - type: markdown
     attributes:
@@ -47,5 +46,5 @@ body:
     id: logs
     attributes:
       label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: Please copy and paste any relevant log output that may appear in the console of your browser. This will be automatically formatted into code, so no need for backticks.
       render: shell
