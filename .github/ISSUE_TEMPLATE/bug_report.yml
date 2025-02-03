@@ -24,7 +24,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "A concise description of what you're experiencing, a concise description of what you expected to happen and steps to reproduce"
     validations:
       required: true
   - type: input
