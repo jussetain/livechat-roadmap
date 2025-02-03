@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: 'feature request'
 assignees: 'jussetain'
-projetct: 'projects/6'
+projetct: 'Livechat'
 ---
 
 **Is your feature request related to a problem? Please describe.**
