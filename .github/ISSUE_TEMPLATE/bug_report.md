@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: 'bug'
 assignees: 'jussetain'
-project: 'projects/6'
+project: 'Livechat'
 ---
 
 **Describe the bug**
